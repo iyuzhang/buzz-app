@@ -474,7 +474,7 @@ export const ROLE_GROUPS: RoleGroup[] = [
       {
         token: "--affordance-reaction",
         variable: "--affordance-reaction",
-        pointsAt: "black 6% light / black 30% dark",
+        pointsAt: "black 6% light / black 12% dark",
         use: "Reaction strip on received bubbles and the panel; the add-reaction hover lays it again on top. Dark mode darkens too, so Apple's grey symbol emoji stay visible.",
         status: "core",
       },

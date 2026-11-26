@@ -832,7 +832,7 @@
      under the pointer takes the quietest overlay of all. */
   --shade-soft-fill: rgb(0 0 0 / 6%);
   /* Sinks a dark mode reaction pill below its bubble. */
-  --shade-deep-fill: rgb(0 0 0 / 30%);
+  --shade-deep-fill: rgb(0 0 0 / 12%);
   --tint-soft-fill: rgb(255 255 255 / 10%);
   --shade-quiet-fill: rgb(0 0 0 / 4%);
   --tint-quiet-fill: rgb(255 255 255 / 8%);
