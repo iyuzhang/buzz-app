@@ -1818,7 +1818,7 @@
   --accent-link-hover-dark: var(--magenta-link-hover-dark);
   --accent-overlay-dark: var(--shade-strong-fill);
   --accent-overlay-hover-dark: var(--shade-strong-hover-fill);
-  --accent-overlay-soft-dark: var(--shade-soft-fill);
+  --accent-overlay-soft-dark: var(--shade-deep-fill);
   --accent-overlay-quiet-dark: var(--shade-quiet-fill);
   --accent-overlay-highlight-dark: var(--shade-fill);
 }
@@ -1865,7 +1865,7 @@
   --accent-link-hover-dark: var(--iris-link-hover-dark);
   --accent-overlay-dark: var(--shade-strong-fill);
   --accent-overlay-hover-dark: var(--shade-strong-hover-fill);
-  --accent-overlay-soft-dark: var(--shade-soft-fill);
+  --accent-overlay-soft-dark: var(--shade-deep-fill);
   --accent-overlay-quiet-dark: var(--shade-quiet-fill);
   --accent-overlay-highlight-dark: var(--shade-fill);
 }
@@ -1912,7 +1912,7 @@
   --accent-link-hover-dark: var(--cobalt-link-hover-dark);
   --accent-overlay-dark: var(--shade-strong-fill);
   --accent-overlay-hover-dark: var(--shade-strong-hover-fill);
-  --accent-overlay-soft-dark: var(--shade-soft-fill);
+  --accent-overlay-soft-dark: var(--shade-deep-fill);
   --accent-overlay-quiet-dark: var(--shade-quiet-fill);
   --accent-overlay-highlight-dark: var(--shade-fill);
 }
@@ -1959,7 +1959,7 @@
   --accent-link-hover-dark: var(--bee-link-hover-dark);
   --accent-overlay-dark: var(--shade-fill);
   --accent-overlay-hover-dark: var(--shade-hover-fill);
-  --accent-overlay-soft-dark: var(--shade-soft-fill);
+  --accent-overlay-soft-dark: var(--shade-deep-fill);
   --accent-overlay-quiet-dark: var(--shade-quiet-fill);
   --accent-overlay-highlight-dark: var(--shade-fill);
 }
@@ -2007,7 +2007,7 @@
   --accent-link-hover-dark: var(--citrus-link-hover-dark);
   --accent-overlay-dark: var(--shade-fill);
   --accent-overlay-hover-dark: var(--shade-hover-fill);
-  --accent-overlay-soft-dark: var(--shade-soft-fill);
+  --accent-overlay-soft-dark: var(--shade-deep-fill);
   --accent-overlay-quiet-dark: var(--shade-quiet-fill);
   --accent-overlay-highlight-dark: var(--shade-fill);
 }
@@ -2054,7 +2054,7 @@
   --accent-link-hover-dark: var(--mono-link-hover-dark);
   --accent-overlay-dark: var(--shade-fill);
   --accent-overlay-hover-dark: var(--shade-hover-fill);
-  --accent-overlay-soft-dark: var(--shade-soft-fill);
+  --accent-overlay-soft-dark: var(--shade-deep-fill);
   --accent-overlay-quiet-dark: var(--shade-quiet-fill);
   --accent-overlay-highlight-dark: var(--shade-fill);
 }

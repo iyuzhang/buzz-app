@@ -489,7 +489,7 @@ export const ROLE_GROUPS: RoleGroup[] = [
         token: "--affordance-reaction-own",
         variable: "--affordance-reaction-own",
         pointsAt:
-          "affordance-reaction; at Buzzin’, black 6% on the accent fill (white 10% on Mono in light mode)",
+          "affordance-reaction; at Buzzin’, black 6% on the accent fill, 12% in dark mode (white 10% on Mono in light mode)",
         use: "Reaction strip inside your own bubble. It follows the bubble's lightness, as its chips do.",
         status: "core",
       },
